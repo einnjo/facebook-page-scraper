@@ -1,0 +1,25 @@
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Redis dump file
+dump.rdb
+
+# Config file
+config.js
